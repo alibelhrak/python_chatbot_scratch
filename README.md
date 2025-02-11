@@ -1,4 +1,4 @@
-🗣️#AI Chatbot with CNN - Built from Scratch🤖
+# AI Chatbot with CNN - Built from Scratch🤖
 
 This project is a Conversational AI Chatbot built from scratch using TensorFlow and Keras. Instead of traditional NLP techniques, it uses a Convolutional Neural Network (CNN) with a Sequential model to classify intents and generate responses.
 
